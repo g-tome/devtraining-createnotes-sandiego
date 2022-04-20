@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="spSurveyAddInfo">30790f8167233200b3d782f45685ef83</sp_angular_provider>
+        <sp_widget display_value="Notes  Body">7a7543e8db3133000613a08a4896195e</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:33:27</sys_created_on>
+        <sys_id>c7ae29dc97030110cfcdfef3a253af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spSurveyAddInfo.Notes  Body</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_c7ae29dc97030110cfcdfef3a253af5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:33:27</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>6e3f9aabdb5e9f00439ef70fbf96196b</instance_id>
+        <instance_name>dev60269</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_c7ae29dc97030110cfcdfef3a253af5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="spSurveyAddInfo">30790f8167233200b3d782f45685ef83</sp_angular_provider><sp_widget display_value="Notes  Body">7a7543e8db3133000613a08a4896195e</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 01:33:27</sys_created_on><sys_id>c7ae29dc97030110cfcdfef3a253af5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>spSurveyAddInfo.Notes  Body</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_c7ae29dc97030110cfcdfef3a253af5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 01:33:27</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>1738712085</payload_hash>
+        <record_name>spSurveyAddInfo.Notes  Body</record_name>
+        <reverted_from/>
+        <source>c27e198097c30110cfcdfef3a253af69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:33:27</sys_created_on>
+        <sys_id>83ae29dc97030110cfcdfef3a253af5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180449a58160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:33:27</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>cbae29dc270301105cf85b5c3dcea35e</update_guid>
+        <update_guid_history>cbae29dc270301105cf85b5c3dcea35e:1738712085</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="spSurveyAddInfo.Notes  Body">d31f211097430110cfcdfef3a253afda</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:35:23</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>0d9c1463cf6c452c83343ab069f68e89</sys_id>
+        <sys_metadata>c7ae29dc97030110cfcdfef3a253af5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spSurveyAddInfo.Notes  Body</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_c7ae29dc97030110cfcdfef3a253af5d</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_c7ae29dc97030110cfcdfef3a253af5d">83ae29dc97030110cfcdfef3a253af5f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:35:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

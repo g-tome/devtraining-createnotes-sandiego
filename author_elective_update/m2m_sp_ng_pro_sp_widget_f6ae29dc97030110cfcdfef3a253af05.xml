@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget">
+    <m2m_sp_ng_pro_sp_widget action="DELETE">
+        <sp_angular_provider display_value="bmKpiScoreDifference">0eee3fda5b0032003d1c484c11f91a73</sp_angular_provider>
+        <sp_widget display_value="Notes  Body">7a7543e8db3133000613a08a4896195e</sp_widget>
+        <sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:33:26</sys_created_on>
+        <sys_id>f6ae29dc97030110cfcdfef3a253af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bmKpiScoreDifference.Notes  Body</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_f6ae29dc97030110cfcdfef3a253af05</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:33:26</sys_updated_on>
+    </m2m_sp_ng_pro_sp_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</application>
+        <file_path/>
+        <instance_id>6e3f9aabdb5e9f00439ef70fbf96196b</instance_id>
+        <instance_name>dev60269</instance_name>
+        <name>m2m_sp_ng_pro_sp_widget_f6ae29dc97030110cfcdfef3a253af05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_ng_pro_sp_widget"><m2m_sp_ng_pro_sp_widget action="INSERT_OR_UPDATE"><sp_angular_provider display_value="bmKpiScoreDifference">0eee3fda5b0032003d1c484c11f91a73</sp_angular_provider><sp_widget display_value="Notes  Body">7a7543e8db3133000613a08a4896195e</sp_widget><sys_class_name>m2m_sp_ng_pro_sp_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-20 01:33:26</sys_created_on><sys_id>f6ae29dc97030110cfcdfef3a253af05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>bmKpiScoreDifference.Notes  Body</sys_name><sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package><sys_policy/><sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope><sys_update_name>m2m_sp_ng_pro_sp_widget_f6ae29dc97030110cfcdfef3a253af05</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-20 01:33:26</sys_updated_on></m2m_sp_ng_pro_sp_widget></record_update>]]></payload>
+        <payload_hash>1192593292</payload_hash>
+        <record_name>bmKpiScoreDifference.Notes  Body</record_name>
+        <reverted_from/>
+        <source>c27e198097c30110cfcdfef3a253af69</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:33:26</sys_created_on>
+        <sys_id>b2ae29dc97030110cfcdfef3a253af07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180449a54df0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:33:26</sys_updated_on>
+        <type>Angular Providers</type>
+        <update_guid>faae29dc5c030110c7d2bc47d6c77006</update_guid>
+        <update_guid_history>faae29dc5c030110c7d2bc47d6c77006:1192593292</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="bmKpiScoreDifference.Notes  Body">e21faddc97030110cfcdfef3a253afef</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-20 01:35:20</sys_created_on>
+        <sys_db_object display_value="" name="m2m_sp_ng_pro_sp_widget">m2m_sp_ng_pro_sp_widget</sys_db_object>
+        <sys_id>0f4f1a4b8c31497082aa42e42b94f040</sys_id>
+        <sys_metadata>f6ae29dc97030110cfcdfef3a253af05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bmKpiScoreDifference.Notes  Body</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_scope_delete display_value="">64daa03572704d49a928bf08a985d6f9</sys_scope_delete>
+        <sys_update_name>m2m_sp_ng_pro_sp_widget_f6ae29dc97030110cfcdfef3a253af05</sys_update_name>
+        <sys_update_version display_value="m2m_sp_ng_pro_sp_widget_f6ae29dc97030110cfcdfef3a253af05">b2ae29dc97030110cfcdfef3a253af07</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-20 01:35:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
